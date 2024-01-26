@@ -1,10 +1,10 @@
 {
 
   "departments": [
-    {"id": 1, "code": "101", "name": "Computer Science & Engineering", "category": "Faculty","icon": "0xe185"},
-    {"id": 2, "code": "102", "name": "Accounting & Information System","category":"Faculty","icon": "0xe121"},
-    {"id": 3, "code": "103", "name": "Department of Economics","category":"Faculty","icon": "0xf04dc"},
-    {"id": 4, "code": "104", "name": "Department of Finance","category":"Faculty","icon": "0xe59a"},
+    {"id": 1, "code": "101", "name": "Faculty Of Science", "category": "Faculty","icon": "0xe185"},
+    {"id": 2, "code": "102", "name": "Faculty Of Arts","category":"Faculty","icon": "0xe121"},
+    {"id": 3, "code": "103", "name": "Faculty Of Biology","category":"Faculty","icon": "0xf04dc"},
+    {"id": 4, "code": "104", "name": "Faculty Of Business Adminstration","category":"Faculty","icon": "0xe59a"},
 
     {"id": 5, "code": "105", "name": "Offices1","category":"Offices","icon": "0xe59a"},
     {"id": 6, "code": "106", "name": "Male Hall","category":"Hall","icon": "0xe59a"},
