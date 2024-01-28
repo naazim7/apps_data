@@ -4,7 +4,7 @@
     {"id": 1, "code": "101", "name": "Faculty Of Engineering", "category": "Faculty","icon": "0xe185"},
     {"id": 2, "code": "102", "name": "Faculty Of Arts","category":"Faculty","icon": "0xe121"},
     {"id": 3, "code": "103", "name": "Faculty Of Science","category":"Faculty","icon": "0xf04dc"},
-    {"id": 4, "code": "104", "name": "Faculty Of Business Adminstration","category":"Faculty","icon": "0xe59a"},
+    {"id": 4, "code": "104", "name": "Faculty Of Business Administration","category":"Faculty","icon": "0xe59a"},
 
     {"id": 5, "code": "105", "name": "Offices1","category":"Offices","icon": "0xe59a"},
     {"id": 6, "code": "106", "name": "Male Hall","category":"Hall","icon": "0xe59a"},
@@ -15,16 +15,29 @@
     {"id": 2,  "departmentId":1,"name": "B.Sc. in Electronics and Electrical Engineering"},
     {"id": 3,  "departmentId":3,"name": "Department of Physics"},
 
-    {"id": 4, "departmentId":2, "name": "Bachelor of Business Administration"},
-    {"id": 5, "departmentId":2, "name": "Masters  of Business Administration"},
+    {"id": 4, "departmentId":4, "name": "Department of Accounting"},
+    {"id": 5, "departmentId":4, "name": "Department of Finance"},
+    {"id": 21, "departmentId":4, "name": "Department of Management"},
+    {"id": 22, "departmentId":4, "name": "Department of Finance"},
+    {"id": 23, "departmentId":4, "name": "Department of Human Resource Management"},
+    {"id": 24, "departmentId":4, "name": "Department of Marketing"},
 
-    {"id": 6, "departmentId":3, "name": "Bachelor of Social Sciences (BSS) in Economics"},
-    {"id": 7, "departmentId":3, "name": "Master of Social Sciences (MSS) in Economics"},
-    {"id": 8, "departmentId":3, "name": "Master of Philosophy in Economics"},
+    {"id": 6, "departmentId":3, "name": "Department of Mathematics"},
+    {"id": 7, "departmentId":3, "name": "Department Of Chemistry"},
+    {"id": 8, "departmentId":3, "name": "Department of Statistics"},
+    {"id": 25, "departmentId":3, "name": "Department of Botany"},
+    {"id": 26, "departmentId":3, "name": "Department of Zoology"},
+    {"id": 27, "departmentId":3, "name": "Department of Applied Chemistry"},
 
-    {"id": 9, "departmentId":4, "name": "Bachelor of Business Administration in Finance"},
-    {"id": 10, "departmentId":4, "name": "Master of Philosophy"},
-    {"id": 11, "departmentId":4, "name": "Master of Business Administration (Evening)"},
+    
+
+    {"id": 9, "departmentId":2, "name": "Department of Economics"},
+    {"id": 10, "departmentId":2, "name": "Department of Sociology"},
+    {"id": 11, "departmentId":2, "name": "Department of Public Administration"},
+    {"id": 28, "departmentId":2, "name": "Department of Criminology And Police Science"},
+    {"id": 29, "departmentId":2, "name": "Department of Political Science"},
+    {"id": 30, "departmentId":2, "name": "Department of Internation Relation"},
+    {"id": 31, "departmentId":2, "name": "Department of Bangladesh Studies"},
 
     {"id": 12, "departmentId":5, "name": "VC Office"},
     {"id": 13, "departmentId":5, "name": "Register Office"},
