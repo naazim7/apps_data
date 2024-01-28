@@ -5,7 +5,7 @@
     {"id": 2, "code": "102", "name": "Faculty Of Social Science","category":"Faculty","icon": "0xe121"},
     {"id": 3, "code": "103", "name": "Faculty Of Science","category":"Faculty","icon": "0xf04dc"},
     {"id": 4, "code": "104", "name": "Faculty Of Business Administration","category":"Faculty","icon": "0xe59a"},
-    {"id": 8, "code": "104", "name": "Faculty Of Arts and Humanities","category":"Faculty","icon": "0xe59a"},
+    {"id": 8, "code": "109", "name": "Faculty Of Arts and Humanities","category":"Faculty","icon": "0xe59a"},
     
 
     {"id": 5, "code": "105", "name": "Offices1","category":"Offices","icon": "0xe59a"},
