@@ -13,7 +13,7 @@
   "units": [
     {"id": 1,  "departmentId":1,"name": "B.Sc. in Computer Science and Engineering"},
     {"id": 2,  "departmentId":1,"name": "B.Sc. in Electronics and Electrical Engineering"},
-   
+    {"id": 3,  "departmentId":3,"name": "Department of Physics"},
 
     {"id": 4, "departmentId":2, "name": "Bachelor of Business Administration"},
     {"id": 5, "departmentId":2, "name": "Masters  of Business Administration"},
