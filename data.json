@@ -58,7 +58,7 @@
      {"id": 34, "departmentId":8, "name": "Department of Arabic"},
      {"id": 35, "departmentId":8, "name": "Department of Islamic Studies"},
      {"id": 36, "departmentId":8, "name": "Department of History"},
-     {"id": 37, "departmentId":8, "name": "Department of Philosophy"},
+     {"id": 37, "departmentId":8, "name": "Department of Philosophy"}
   ],
 
   "contacts": [
