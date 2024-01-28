@@ -2,9 +2,11 @@
 
   "departments": [
     {"id": 1, "code": "101", "name": "Faculty Of Engineering", "category": "Faculty","icon": "0xe185"},
-    {"id": 2, "code": "102", "name": "Faculty Of Arts","category":"Faculty","icon": "0xe121"},
+    {"id": 2, "code": "102", "name": "Faculty Of Social Science","category":"Faculty","icon": "0xe121"},
     {"id": 3, "code": "103", "name": "Faculty Of Science","category":"Faculty","icon": "0xf04dc"},
     {"id": 4, "code": "104", "name": "Faculty Of Business Administration","category":"Faculty","icon": "0xe59a"},
+    {"id": 8, "code": "104", "name": "Faculty Of Arts and Humanities","category":"Faculty","icon": "0xe59a"},
+    
 
     {"id": 5, "code": "105", "name": "Offices1","category":"Offices","icon": "0xe59a"},
     {"id": 6, "code": "106", "name": "Male Hall","category":"Hall","icon": "0xe59a"},
@@ -47,7 +49,14 @@
     {"id": 17, "departmentId":6, "name": "Shah Amanot  Hall"},
     {"id": 18, "departmentId":6, "name": "Sheikh Hasina Hall"},
     {"id": 19, "departmentId":6, "name": "Shahjalal Hall"},
-    {"id": 20, "departmentId":6, "name": "Atish Dipankor Hall"}
+    {"id": 20, "departmentId":6, "name": "Atish Dipankor Hall"},
+
+    {"id": 32, "departmentId":8, "name": "Department of Bangla"},
+     {"id": 33, "departmentId":8, "name": "Department of English"},
+     {"id": 34, "departmentId":8, "name": "Department of Arabic"},
+     {"id": 35, "departmentId":8, "name": "Department of Islamic Studies"},
+     {"id": 36, "departmentId":8, "name": "Department of History"},
+     {"id": 37, "departmentId":8, "name": "Department of Philosophy"},
   ],
 
   "contacts": [
