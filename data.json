@@ -12,8 +12,8 @@
   ],
   "units": [
     {"id": 1,  "departmentId":1,"name": "B.Sc. in Computer Science and Engineering"},
-    {"id": 2,  "departmentId":1,"name": "MSc in Computer Science and Engineering"},
-    {"id": 3,  "departmentId":1,"name": "Professional Masters in Information and Cyber Security (PMICS)"},
+    {"id": 2,  "departmentId":1,"name": "B.Sc. in Electronics and Electrical Engineering"},
+   
 
     {"id": 4, "departmentId":2, "name": "Bachelor of Business Administration"},
     {"id": 5, "departmentId":2, "name": "Masters  of Business Administration"},
@@ -28,11 +28,13 @@
 
     {"id": 12, "departmentId":5, "name": "VC Office"},
     {"id": 13, "departmentId":5, "name": "Register Office"},
-    {"id": 14, "departmentId":6, "name": "Bongobondho Hall"},
-    {"id": 15, "departmentId":6, "name": "Mohsin Hall"},
-    {"id": 16, "departmentId":6, "name": "Kazi Nazrul Islam Hall"},
-    {"id": 17, "departmentId":7, "name": "Begum Rokeya Hall"},
-    {"id": 18, "departmentId":7, "name": "Sekh Hasina Hall"}
+    {"id": 14, "departmentId":6, "name": "Shaheed Abdur Rab Hall"},
+    {"id": 15, "departmentId":6, "name": "Bangabandhu Hall"},
+    {"id": 16, "departmentId":6, "name": "Pritilota Hall"},
+    {"id": 17, "departmentId":7, "name": "Shah Amanot  Hall"},
+    {"id": 18, "departmentId":7, "name": "Seikh Hasina Hall"},
+    {"id": 19, "departmentId":7, "name": "Shahjalal Hall"},
+    {"id": 18, "departmentId":7, "name": "Atish Dipankor Hall"}
   ],
 
   "contacts": [
@@ -50,6 +52,7 @@
     {"id": 11, "name": "Sohel khan", "profile":"https://randomuser.me/api/portraits/thumb/men/21.jpg", "phone":"01930250052","designation":"Asst. professor","orderBy":11,"email":"mkubd212@gmail.com", "unitId": 6},
     {"id": 12, "name": "Sohel khan", "profile":"https://randomuser.me/api/portraits/thumb/men/22.jpg", "phone":"01930250051","designation":"Asst professor","orderBy":12,"email":"mkubd212@gmail.com", "unitId": 7},
     {"id": 13, "name": "Sohel khan", "profile":"https://randomuser.me/api/portraits/thumb/men/23.jpg", "phone":"01930250051","designation":"Teacher","orderBy":13,"email":"", "unitId": 8},
+    
 
     {"id": 15, "name": "Amir Md khan", "profile":"https://randomuser.me/api/portraits/thumb/men/22.jpg", "phone":"01930250051","designation":"Asst professor","orderBy":12,"email":"mkubd212@gmail.com", "unitId": 12},
     {"id": 16, "name": "Lokman khan", "profile":"https://randomuser.me/api/portraits/thumb/men/23.jpg", "phone":"01930250051","designation":"Teacher","orderBy":13,"email":"", "unitId": 13},
