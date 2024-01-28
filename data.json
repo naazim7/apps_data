@@ -103,7 +103,34 @@
 {"id": 28, "name": "Dr. Mohammad Idrish Miah","profile":"https://cu.ac.bd/assets/image/faculty_staff_users/395_JTFMF6IU2Q.jpg", "phone":"01819924171","designation":"Professor","orderBy":2,"email":"m.idrish.miah@cu.ac.bd","unitId": 3 },
 {"id": 29, "name": "Dr. Rezaul Azim","profile":"https://cu.ac.bd/assets/image/faculty_staff_users/397_N3R193I57S.jpg", "phone":"01711122950","designation":"Professor","orderBy":2,"email":"rezaulazim@cu.ac.bd","unitId": 3 },
 {"id": 30, "name": "Dr. Shamima Nasrin","profile":"https://cu.ac.bd/assets/image/faculty_staff_users/405_CB7P06NMB9.jpg", "phone":"","designation":"Associate Professor","orderBy":3,"email":"shamima.physics@cu.ac.bd","unitId": 3 },
-{"id": 31, "name": "Dr. Rezaur Rahman","profile":"https://cu.ac.bd/assets/image/faculty_staff_users/400_8PRD0XJAF4.jpg", "phone":"01746526707","designation":"Professor","orderBy":2,"email":"rezaur.physics@cu.ac.bd","unitId": 3 }
+{"id": 31, "name": "Dr. Rezaur Rahman","profile":"https://cu.ac.bd/assets/image/faculty_staff_users/400_8PRD0XJAF4.jpg", "phone":"01746526707","designation":"Professor","orderBy":2,"email":"rezaur.physics@cu.ac.bd","unitId": 3 },
+
+
+
+{"id": 42, "name": "Dr. Sanaullah Chowdhury","profile":"https://cu.ac.bd/assets/image/faculty_staff_users/profile_pic.png", "phone":"","designation":"Chairman","orderBy":1,"email":"","unitId": 1 },
+{"id": 43, "name": "Md. Hanif Seddiqui","profile":"https://cu.ac.bd/assets/image/faculty_staff_users/5_K95BRBVEJ5.jpg", "phone":"01933236173","designation":"Professor","orderBy":2,"email":"hanif@cu.ac.bd","unitId": 1 },
+{"id": 44, "name": "Dr. Khairul Islam","profile":"https://cu.ac.bd/assets/image/faculty_staff_users/27_BKHZHIQ826.jpg", "phone":"01919611867","designation":"Professor","orderBy":2,"email":"mkislam@cu.ac.bd","unitId": 1 },
+{"id": 45, "name": "Prof. Dr. Osiur Rahman","profile":"https://cu.ac.bd/assets/image/faculty_staff_users/28_5ODUZO8K1O.jpg", "phone":"01716-339133","designation":"Professor","orderBy":2,"email":"drosi@cu.ac.bd","unitId": 1 },
+{"id": 46, "name": "Dr. Rashed Mustafa","profile":"https://cu.ac.bd/assets/image/faculty_staff_users/33_6PIX57MCSE.jpg", "phone":"01819646333","designation":"Professor","orderBy":2,"email":"rashedDOTmATcu.ac.bd","unitId": 1 },
+{"id": 47, "name": "Dr. Farah Jahan","profile":"https://cu.ac.bd/assets/image/faculty_staff_users/38_W9888F7590.jpg", "phone":"01842611867","designation":"Professor","orderBy":2,"email":"farah_csc@cu.ac.bd","unitId": 1 },
+{"id": 48, "name": "Dr. Kazi Ashrafuzzaman","profile":"https://cu.ac.bd/assets/image/faculty_staff_users/35_C0WVY1V56Y.jpg", "phone":"","designation":"Professor","orderBy":2,"email":"ashraf＠cu.ac.bd","unitId": 1 },
+{"id": 49, "name": "Muhammad Anwarul Azim","profile":"https://cu.ac.bd/assets/image/faculty_staff_users/profile_pic.png", "phone":"01799634272","designation":"Professor","orderBy":2,"email":"azim@cu.ac.bd","unitId": 1 },
+{"id": 50, "name": "Dr. Iqbal Ahmed","profile":"https://cu.ac.bd/assets/image/faculty_staff_users/37_JDPIAQFVN3.jpg", "phone":"01711 481086","designation":"Professor","orderBy":2,"email":"iqbal.ahmed@cu.ac.bd","unitId": 1 },
+{"id": 51, "name": "Rokan Uddin Faruqui","profile":"https://cu.ac.bd/assets/image/faculty_staff_users/36_R7GDKAB4O5.jpg", "phone":"","designation":"Professor","orderBy":2,"email":"rokan@cu.ac.bd","unitId": 1 },
+{"id": 52, "name": "REZAUL KARIM","profile":"https://cu.ac.bd/assets/image/faculty_staff_users/22_8YPX6VQD7A.jpg", "phone":"","designation":"Associate Professor","orderBy":3,"email":"pinnacle_of_success@yahoo.com","unitId": 1 },
+{"id": 53, "name": "Dr. Fahim Irfan Alam","profile":"https://cu.ac.bd/assets/image/faculty_staff_users/39_JA8WQQS7F7.jpg", "phone":"01747226668","designation":"Associate Professor","orderBy":3,"email":"","unitId": 1 },
+{"id": 54, "name": "Dr. Rudra Pratab","profile":"https://cu.ac.bd/assets/image/faculty_staff_users/42_8VSXSNIDSD.jpg", "phone":"","designation":"Associate Professor","orderBy":3,"email":"rudra@cu.ac.bd","unitId": 1 },
+{"id": 55, "name": "Sajedul Hoque","profile":"https://cu.ac.bd/assets/image/faculty_staff_users/43_BGXKYBKOFH.jpg", "phone":"","designation":"Assistant Professor ","orderBy":4,"email":"hoque.cse@cu.ac.bd","unitId": 1 },
+{"id": 56, "name": "Dr. Atiqur Rahman","profile":"https://cu.ac.bd/assets/image/faculty_staff_users/41_EYWDK2LMFG.jpg", "phone":"","designation":"Associate Professor","orderBy":3,"email":"atiqcse09[at]cu.ac.bd","unitId": 1 },
+{"id": 57, "name": "Shima Chakraborty","profile":"https://cu.ac.bd/assets/image/faculty_staff_users/45_8Z6DUQK4EF.jpg", "phone":"","designation":"Assistant Professor","orderBy":4,"email":"","unitId": 1 },
+{"id": 58, "name": "Nasrin Sultana","profile":"https://cu.ac.bd/assets/image/faculty_staff_users/44_JGXU2S87NJ.jpg", "phone":"","designation":"Assistant Professor","orderBy":4,"email":"nasrin_cse@cu.ac.bd","unitId": 1 },
+{"id": 59, "name": "Dr. Mahbubul Islam","profile":"https://cu.ac.bd/assets/image/faculty_staff_users/40_Q11H4CDWTD.jpg", "phone":"","designation":"Associate Professor","orderBy":3,"email":"mahbubcse@cu.ac.bd","unitId": 1 },
+{"id": 60, "name": "Dr. Abu Nowshed Chy","profile":"https://cu.ac.bd/assets/image/faculty_staff_users/935_Y8JBVC74VP.jpg", "phone":"01764207358","designation":"Assistant Professor","orderBy":4,"email":"nowshed@cu.ac.bd","unitId": 1 },
+{"id": 61, "name": "Istiak Chowdhury","profile":"https://cu.ac.bd/assets/image/faculty_staff_users/936_QGXBWMDILV.jpg", "phone":"","designation":"Assistant Professor","orderBy":4,"email":"istiak@cu.ac.bd","unitId": 1 }
+
+  
+
+    
 
     
   ]
